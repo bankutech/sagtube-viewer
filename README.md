@@ -1,4 +1,4 @@
-# sagtube-viewer
+# sagtube viewer
 
 ## Overview
 SagTube Viewer is a beautifully designed, distraction-free YouTube video and playlist viewer built with React and Vite. It provides an immersive theater mode experience, stripping away the noise of the standard YouTube interface so you can focus entirely on your content.
