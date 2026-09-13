@@ -1,12 +1,13 @@
-# SagTube Viewer
+# sagtube-viewer
 
+## Overview
 SagTube Viewer is a beautifully designed, distraction-free YouTube video and playlist viewer built with React and Vite. It provides an immersive theater mode experience, stripping away the noise of the standard YouTube interface so you can focus entirely on your content.
 
-## 🚀 Live Demo
+##  Live Demo
 
 [https://sagtube-react.vercel.app](https://sagtube-react.vercel.app)
 
-## ✨ Features
+##  Features
 
 - **Distraction-Free Theater**: Watch videos and playlists in a clean, edge-to-edge player.
 - **Smart Parsing**: Paste any YouTube video URL, playlist URL, or `youtu.be` link—SagTube automatically extracts what you need.
@@ -16,7 +17,7 @@ SagTube Viewer is a beautifully designed, distraction-free YouTube video and pla
 - **Dark & Light Mode**: Flawless monochrome themes that adapt to your environment.
 - **Responsive Design**: Pixel-perfect on desktop, tablet, and mobile devices.
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 - **Framework**: React 18
 - **Build Tool**: Vite
@@ -24,7 +25,7 @@ SagTube Viewer is a beautifully designed, distraction-free YouTube video and pla
 - **Deployment**: Vercel
 - **APIs**: YouTube Data API v3, Google Gemini API
 
-## 💻 Local Setup
+##  Local Setup
 
 1. **Clone the repository**
    ```bash
@@ -51,9 +52,15 @@ SagTube Viewer is a beautifully designed, distraction-free YouTube video and pla
 
 5. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## 📦 Deployment
+##  Deployment
 
 This project is configured for seamless deployment on Vercel. Ensure you add `VITE_YOUTUBE_API_KEY` and `VITE_GEMINI_API_KEY` to your Vercel Project Environment Variables before deploying.
 
 ---
-*Built with ❤️ for a distraction-free learning environment.*
+*Built with ️ for a distraction-free learning environment.*
+
+## Getting Started
+Please refer to the source files for specific installation and usage instructions. Ensure that your local environment meets the standard requirements for the associated technologies.
+
+## Project Structure
+This project is organized into standard directories. Key configuration files and primary source code are located in the root directory.
